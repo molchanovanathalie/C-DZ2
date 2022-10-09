@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\bin\Debug\net6.0\003_NomerChetverti.exe
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\bin\Debug\net6.0\003_NomerChetverti.deps.json
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\bin\Debug\net6.0\003_NomerChetverti.runtimeconfig.json
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\bin\Debug\net6.0\003_NomerChetverti.dll
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\bin\Debug\net6.0\003_NomerChetverti.pdb
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.dll
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\refint\003_NomerChetverti.dll
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.pdb
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\003_NomerChetverti.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ2\003_NomerChetverti\obj\Debug\net6.0\ref\003_NomerChetverti.dll
