@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ2\004_2D3D\bin\Debug\net6.0\004_2D3D.exe
+E:\Наташа разработчик\C#DZ2\004_2D3D\bin\Debug\net6.0\004_2D3D.deps.json
+E:\Наташа разработчик\C#DZ2\004_2D3D\bin\Debug\net6.0\004_2D3D.runtimeconfig.json
+E:\Наташа разработчик\C#DZ2\004_2D3D\bin\Debug\net6.0\004_2D3D.dll
+E:\Наташа разработчик\C#DZ2\004_2D3D\bin\Debug\net6.0\004_2D3D.pdb
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.dll
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\refint\004_2D3D.dll
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.pdb
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\004_2D3D.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ2\004_2D3D\obj\Debug\net6.0\ref\004_2D3D.dll
